@@ -14,6 +14,7 @@
 		A8C28D5723FE73BE00E2EAA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8C28D5623FE73BE00E2EAA1 /* Assets.xcassets */; };
 		A8C28D5A23FE73BE00E2EAA1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8C28D5923FE73BE00E2EAA1 /* Preview Assets.xcassets */; };
 		A8C28D5D23FE73BE00E2EAA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8C28D5B23FE73BE00E2EAA1 /* LaunchScreen.storyboard */; };
+		A8C28D6523FE74E300E2EAA1 /* Task+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C28D6423FE74E300E2EAA1 /* Task+Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A8C28D5923FE73BE00E2EAA1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A8C28D5C23FE73BE00E2EAA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A8C28D5E23FE73BE00E2EAA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A8C28D6423FE74E300E2EAA1 /* Task+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Task+Extensions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				A8C28D5E23FE73BE00E2EAA1 /* Info.plist */,
 				A8C28D5123FE73BC00E2EAA1 /* task_list.xcdatamodeld */,
 				A8C28D5823FE73BE00E2EAA1 /* Preview Content */,
+				A8C28D6423FE74E300E2EAA1 /* Task+Extensions.swift */,
 			);
 			path = "task list";
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				A8C28D4E23FE73BC00E2EAA1 /* AppDelegate.swift in Sources */,
 				A8C28D5023FE73BC00E2EAA1 /* SceneDelegate.swift in Sources */,
+				A8C28D6523FE74E300E2EAA1 /* Task+Extensions.swift in Sources */,
 				A8C28D5523FE73BC00E2EAA1 /* ContentView.swift in Sources */,
 				A8C28D5323FE73BC00E2EAA1 /* task_list.xcdatamodeld in Sources */,
 			);
